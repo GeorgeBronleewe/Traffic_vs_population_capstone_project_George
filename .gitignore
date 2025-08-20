@@ -209,3 +209,7 @@ __marimo__/
 .ipynb_checkpoints/Capstone2-checkpoint.ipynb
 Traffic_Lines_-8205076846245197459.geojson
 aadt_davidson.geojson
+# ignore all CSVs by default
+*.csv
+# but DO track curated tables
+!outputs/tables/*.csv
