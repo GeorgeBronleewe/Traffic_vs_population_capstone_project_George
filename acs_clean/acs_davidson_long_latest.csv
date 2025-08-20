@@ -1,0 +1,119 @@
+table,geo,category,estimate,moe
+population,"Davidson County, TN",Total,709846,
+housing,"Davidson County, TN",Total,345026,169.0
+tenure,"Davidson County, TN",Total:,314578,1422.0
+tenure,"Davidson County, TN",Owner occupied,168040,2113.0
+tenure,"Davidson County, TN",Renter occupied,146538,2253.0
+commute_time,"Davidson County, TN",Total:,318422,3303.0
+commute_time,"Davidson County, TN",Less than 5 minutes,5793,682.0
+commute_time,"Davidson County, TN",5 to 9 minutes,24023,1076.0
+commute_time,"Davidson County, TN",10 to 14 minutes,38440,1471.0
+commute_time,"Davidson County, TN",15 to 19 minutes,52942,2021.0
+commute_time,"Davidson County, TN",20 to 24 minutes,57815,2188.0
+commute_time,"Davidson County, TN",25 to 29 minutes,27462,1577.0
+commute_time,"Davidson County, TN",30 to 34 minutes,49111,1903.0
+commute_time,"Davidson County, TN",35 to 39 minutes,12478,1170.0
+commute_time,"Davidson County, TN",40 to 44 minutes,12299,1047.0
+commute_time,"Davidson County, TN",45 to 59 minutes,22043,1464.0
+commute_time,"Davidson County, TN",60 to 89 minutes,11962,1206.0
+commute_time,"Davidson County, TN",90 or more minutes,4054,597.0
+transport_type,"Davidson County, TN",Total:,389602,2735.0
+transport_type,"Davidson County, TN","Car, truck, or van:",298047,3507.0
+transport_type,"Davidson County, TN",Drove alone,266197,3525.0
+transport_type,"Davidson County, TN",Carpooled:,31850,1916.0
+transport_type,"Davidson County, TN",In 2-person carpool,23986,1593.0
+transport_type,"Davidson County, TN",In 3-person carpool,4788,927.0
+transport_type,"Davidson County, TN",In 4-person carpool,1773,515.0
+transport_type,"Davidson County, TN",In 5- or 6-person carpool,896,364.0
+transport_type,"Davidson County, TN",In 7-or-more-person carpool,407,318.0
+transport_type,"Davidson County, TN",Public transportation (excluding taxicab):,6260,802.0
+transport_type,"Davidson County, TN",Bus,5954,815.0
+transport_type,"Davidson County, TN",Subway or elevated rail,0,32.0
+transport_type,"Davidson County, TN",Long-distance train or commuter rail,185,99.0
+transport_type,"Davidson County, TN","Light rail, streetcar or trolley (carro público in Puerto Rico)",31,47.0
+transport_type,"Davidson County, TN",Ferryboat,90,90.0
+transport_type,"Davidson County, TN",Taxicab,1164,264.0
+transport_type,"Davidson County, TN",Motorcycle,140,70.0
+transport_type,"Davidson County, TN",Bicycle,1180,363.0
+transport_type,"Davidson County, TN",Walked,7315,764.0
+transport_type,"Davidson County, TN",Other means,4316,764.0
+transport_type,"Davidson County, TN",Worked from home,71180,2369.0
+vehicles,"Davidson County, TN",Total:,314578,1422.0
+vehicles,"Davidson County, TN",No vehicle available,20654,1320.0
+vehicles,"Davidson County, TN",1 vehicle available,125618,3116.0
+vehicles,"Davidson County, TN",2 vehicles available,115379,2573.0
+vehicles,"Davidson County, TN",3 vehicles available,36709,1771.0
+vehicles,"Davidson County, TN",4 or more vehicles available,16218,1155.0
+vehicles,"Davidson County, TN",1-person household:,115283,2749.0
+vehicles,"Davidson County, TN",No vehicle available,13386,981.0
+vehicles,"Davidson County, TN",1 vehicle available,85204,2757.0
+vehicles,"Davidson County, TN",2 vehicles available,13501,1047.0
+vehicles,"Davidson County, TN",3 vehicles available,2572,561.0
+vehicles,"Davidson County, TN",4 or more vehicles available,620,257.0
+vehicles,"Davidson County, TN",2-person household:,104365,2650.0
+vehicles,"Davidson County, TN",No vehicle available,3610,661.0
+vehicles,"Davidson County, TN",1 vehicle available,23835,1394.0
+vehicles,"Davidson County, TN",2 vehicles available,62699,2334.0
+vehicles,"Davidson County, TN",3 vehicles available,11091,856.0
+vehicles,"Davidson County, TN",4 or more vehicles available,3130,424.0
+vehicles,"Davidson County, TN",3-person household:,42607,1957.0
+vehicles,"Davidson County, TN",No vehicle available,1521,368.0
+vehicles,"Davidson County, TN",1 vehicle available,8314,959.0
+vehicles,"Davidson County, TN",2 vehicles available,17740,1192.0
+vehicles,"Davidson County, TN",3 vehicles available,11562,984.0
+vehicles,"Davidson County, TN",4 or more vehicles available,3470,568.0
+vehicles,"Davidson County, TN",4-or-more-person household:,52323,1987.0
+vehicles,"Davidson County, TN",No vehicle available,2137,420.0
+vehicles,"Davidson County, TN",1 vehicle available,8265,921.0
+vehicles,"Davidson County, TN",2 vehicles available,21439,1360.0
+vehicles,"Davidson County, TN",3 vehicles available,11484,940.0
+vehicles,"Davidson County, TN",4 or more vehicles available,8998,866.0
+sex_by_age,"Davidson County, TN",Total:,709846,
+sex_by_age,"Davidson County, TN",Male:,343591,97.0
+sex_by_age,"Davidson County, TN",Under 5 years,23447,45.0
+sex_by_age,"Davidson County, TN",5 to 9 years,20531,934.0
+sex_by_age,"Davidson County, TN",10 to 14 years,19513,931.0
+sex_by_age,"Davidson County, TN",15 to 17 years,11403,99.0
+sex_by_age,"Davidson County, TN",18 and 19 years,9095,59.0
+sex_by_age,"Davidson County, TN",20 years,3948,572.0
+sex_by_age,"Davidson County, TN",21 years,3955,581.0
+sex_by_age,"Davidson County, TN",22 to 24 years,15744,743.0
+sex_by_age,"Davidson County, TN",25 to 29 years,34214,73.0
+sex_by_age,"Davidson County, TN",30 to 34 years,34824,28.0
+sex_by_age,"Davidson County, TN",35 to 39 years,28317,1044.0
+sex_by_age,"Davidson County, TN",40 to 44 years,23044,1045.0
+sex_by_age,"Davidson County, TN",45 to 49 years,20250,12.0
+sex_by_age,"Davidson County, TN",50 to 54 years,19539,20.0
+sex_by_age,"Davidson County, TN",55 to 59 years,19903,927.0
+sex_by_age,"Davidson County, TN",60 and 61 years,7012,731.0
+sex_by_age,"Davidson County, TN",62 to 64 years,10074,845.0
+sex_by_age,"Davidson County, TN",65 and 66 years,6106,537.0
+sex_by_age,"Davidson County, TN",67 to 69 years,8382,738.0
+sex_by_age,"Davidson County, TN",70 to 74 years,11199,646.0
+sex_by_age,"Davidson County, TN",75 to 79 years,6913,416.0
+sex_by_age,"Davidson County, TN",80 to 84 years,3328,367.0
+sex_by_age,"Davidson County, TN",85 years and over,2850,403.0
+sex_by_age,"Davidson County, TN",Female:,366255,97.0
+sex_by_age,"Davidson County, TN",Under 5 years,22961,38.0
+sex_by_age,"Davidson County, TN",5 to 9 years,20025,881.0
+sex_by_age,"Davidson County, TN",10 to 14 years,19103,882.0
+sex_by_age,"Davidson County, TN",15 to 17 years,11127,66.0
+sex_by_age,"Davidson County, TN",18 and 19 years,9153,45.0
+sex_by_age,"Davidson County, TN",20 years,5184,643.0
+sex_by_age,"Davidson County, TN",21 years,4817,689.0
+sex_by_age,"Davidson County, TN",22 to 24 years,16568,741.0
+sex_by_age,"Davidson County, TN",25 to 29 years,38345,67.0
+sex_by_age,"Davidson County, TN",30 to 34 years,35897,47.0
+sex_by_age,"Davidson County, TN",35 to 39 years,28191,1048.0
+sex_by_age,"Davidson County, TN",40 to 44 years,22757,1045.0
+sex_by_age,"Davidson County, TN",45 to 49 years,20042,23.0
+sex_by_age,"Davidson County, TN",50 to 54 years,19871,54.0
+sex_by_age,"Davidson County, TN",55 to 59 years,21333,878.0
+sex_by_age,"Davidson County, TN",60 and 61 years,8093,643.0
+sex_by_age,"Davidson County, TN",62 to 64 years,11413,966.0
+sex_by_age,"Davidson County, TN",65 and 66 years,7766,692.0
+sex_by_age,"Davidson County, TN",67 to 69 years,9711,636.0
+sex_by_age,"Davidson County, TN",70 to 74 years,13455,771.0
+sex_by_age,"Davidson County, TN",75 to 79 years,8466,621.0
+sex_by_age,"Davidson County, TN",80 to 84 years,6027,504.0
+sex_by_age,"Davidson County, TN",85 years and over,5950,621.0
