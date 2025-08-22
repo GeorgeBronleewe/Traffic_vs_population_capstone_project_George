@@ -213,3 +213,4 @@ aadt_davidson.geojson
 *.csv
 # but DO track curated tables
 !outputs/tables/*.csvCapstone 3.ipynb
+Capstone 3.ipynb
