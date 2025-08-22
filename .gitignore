@@ -212,4 +212,4 @@ aadt_davidson.geojson
 # ignore all CSVs by default
 *.csv
 # but DO track curated tables
-!outputs/tables/*.csv
+!outputs/tables/*.csvCapstone 3.ipynb
